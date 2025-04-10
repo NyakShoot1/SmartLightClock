@@ -4,7 +4,7 @@ INFLUXDB_ORG = "myorg"
 SMART_ALARM_BUCKET = "smart_alarm_clock"
 SLEEP_RATING_BUCKET = "sleep_rating"
 
-MQTT_BROKER = "192.168.1.152f"
+MQTT_BROKER = "192.168.1.152"
 MQTT_PORT = 1883
 MQTT_ALARM_TIME_TOPIC = "alarm/time"
 MQTT_SENSOR_TOPIC = "sensors/dht22"
